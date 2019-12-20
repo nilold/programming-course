@@ -7,12 +7,13 @@
 #### Introdução
 - O que será ensinado (geral)
 - Quem sou eu
+- A questão do inglês
 - Porque Python
 
 
 ### Parte 1
 #### Ambiente 1 (web)
-- Google Colaboratory
+- Google Colab
 - Jupyter Notebook
 #### Estruturas de Dados
 - Variáveis
@@ -21,8 +22,8 @@
 - Dicionários
 ##### Revisão: Jogo da velha parte 1
 - Definindo a matriz 3x3
-- Colocando valor na matriz
 - Lendo valor da matriz
+- Colocando valor na matriz
 #### Laços e Condições
 - if/else
 - for
