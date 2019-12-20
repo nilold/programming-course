@@ -16,14 +16,12 @@
 - Jupyter Notebook
 #### Estruturas de Dados
 - Variáveis
-- Tipos comuns: int, float, boolean
+- Tipos comuns: int, float, boolean, strings
 - Listas e Matrizes
-- Strings
-- ?Bytes (talvez seja desnecessário ensinar aqui)
 - Dicionários
 ##### Revisão: Jogo da velha parte 1
 - Definindo a matriz 3x3
-- Coloando valor na matriz
+- Colocando valor na matriz
 - Lendo valor da matriz
 #### Laços e Condições
 - if/else
@@ -34,8 +32,7 @@
 - Listando casas vazias
 - Verificando se alguma linha ganhou
 - Verificando se alguma coluna ganhou (desafio)
-#### Funções auxiliares
-https://docs.python.org/3/library/functions.html
+#### Funções auxiliares (built in)
 - print()
 - len()
 - sum()
@@ -52,7 +49,6 @@ https://docs.python.org/3/library/functions.html
 - Verificando se a diagonal reversa ganhou usando range() (desafio)
 #### Desafio 1:
 - "Printe" o tabuleiro
-
 
 ### Parte 2 - Criando scripts
 #### Ambiente parte 2:
@@ -97,6 +93,8 @@ https://docs.python.org/3/library/functions.html
 - Criar teste para verificar função de obter símbolo
 - Criar teste para verificar função do usuário escolher a casa
 - Criar um teste para a função de verificar se algum jogador venceu
+#### Desafio 2:
+- Refatore suas funções!
 
 ### Parte 3 - POO
 #### Classes
