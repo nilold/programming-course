@@ -1,4 +1,4 @@
-# programming-course
+# Introdução à Programação com Python
 
 ## Tópicos
 
