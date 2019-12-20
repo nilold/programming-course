@@ -90,6 +90,7 @@ https://docs.python.org/3/library/functions.html
 - Refatorar a função "verifica_casa_livre"
 - Criar um teste para função lista casas livres (desafio)
 - Criar um teste para as funções de verificar linha, coluna e diagonais.
+- Criar um teste para a função de printar tabuleiro
 #### Testes de unidade- Parte 2
 - Mock
 ##### Revisão: Jogo da velha parte 7
@@ -103,3 +104,28 @@ https://docs.python.org/3/library/functions.html
 - Definindo uma classe: nome, atributos, funções
 - Definindo métodos: self
 - Instanciando objetos
+##### Revisão: Jogo da velha parte 8
+- Criando a classe TicTacToe (tabuleiro hard-coded)
+- Criando os méotodos (TDD)
+- Instanciando um objeto e interagindo com ele
+#### Dunder methods
+- Método __init__()
+- Método __repr__()
+- Método __str__()
+- Método __getitem__()
+##### Revisão: Jogo da velha parte 9
+- Criando o método __init__ (TDD)
+- Criando o método __repr__ (TDD)
+- Criando o método __str__ (TDD)
+- Criando o método __getitem__ (TDD)
+#### Herança
+- Herança simples
+- Herança múltipla (mixins)
+##### Revisão: Jogo da velha parte 10
+- Criando a classe Board: __init__(size), __getitem__()
+- Fazer a classe TicTacToe herdar Board (TDD)
+- Criando uma classe Chezz que herda Board
+#### Abstrações e Protocolos (Interfaces)
+- Métodos abstratos
+- Classes abstratas
+- Protocolos::::::::::::::::::::::::::::::::::::::::::::::::: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :: : : :: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :  : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : 
