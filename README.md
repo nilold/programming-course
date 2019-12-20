@@ -127,3 +127,25 @@
 - Métodos abstratos
 - Classes abstratas
 - Protocolos: duck typing
+- ABCs
+##### Revisão: Jogo da velha parte 11
+- Criando a classe abstrata Game
+- Método abstrato: start_game()
+- Método abstrato: restart_game()
+- Método abstrato: finish_game()
+- Fazer a classe TicTacToe herdar Game (TDD)
+
+### Parte 4 - Conclusão
+#### Considerações finais
+- O que fizemos
+- Diferenças entre linguagens
+- Continue praticando: cursos onlines
+#### O que vem depois?
+- Programação para Web (falar do curso do Zero à Implantação)
+ - Frontend vs Backend
+ - Devops
+- Ciência e Engenharia de Dados
+- Programação de aplicativos
+- Programação gráfica (ex: Processing)
+- Games (ex: Unity)
+- Microcontroladores e robótica
